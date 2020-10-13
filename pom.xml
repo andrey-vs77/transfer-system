@@ -110,7 +110,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <mockito.version>3.0.0</mockito.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <lombok.version>1.18.8</lombok.version>
         <logback.vrsion>1.2.3</logback.vrsion>
         <flyway.version>6.0.0-beta2</flyway.version>
