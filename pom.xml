@@ -116,7 +116,7 @@
         <flyway.version>6.0.0-beta2</flyway.version>
         <hsqldb.version>2.4.0</hsqldb.version>
         <mybatis-guice.version>3.10</mybatis-guice.version>
-        <mybatis.version>3.4.5</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <guice.version>4.1.0</guice.version>
         <spark.version>2.9.1</spark.version>
         <jackson.version>2.9.9.1</jackson.version>
